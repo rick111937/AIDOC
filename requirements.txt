@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+sentencepiece
+geopy
+gTTStwilio
+pandas
+pyperclip
+langdetect
+plyer
+fpdf2
+requests
+speech_recognition
